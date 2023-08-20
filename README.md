@@ -1,5 +1,5 @@
 Printf:
-.This is an ALX 0x11. C - print collaboration project
+.This is a collaboration project named : 0x11. C - printf
 
 Written by:
 .C language
